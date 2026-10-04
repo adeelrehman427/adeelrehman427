@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/adeelrehman427"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://tiktok.com/@adeelrehman.uk"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white" /></a>
   <a href="https://x.com/adeelrehmanoff"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@diopakistan"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
+  <a href="https://youtube.com/@diopakistan"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" /></a>
   <a href="mailto:adeelrehman.uk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 
