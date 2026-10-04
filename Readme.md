@@ -6,13 +6,8 @@
 
 <div align="center">
 
-# 💫 About Me:
-**🔭 I’m currently working on:** developing high-performing web utility tools at diotoolshub.com and strategizing digital growth for DIO Pakistan.<br>
-**👯 I’m looking to collaborate on:** cutting-edge projects at the intersection of web technology, AI innovation, and digital marketing.<br>
-**🌱 I’m currently learning:** advanced AI prompting for video generation and complex full-stack web coding.<br>
-**💬 Ask me about:** web development, SEO, artificial intelligence, and social media strategy.<br>
-**⚡ Fun fact:** I successfully manage a complete digital ecosystem while pursuing my studies!
-
+# 💫 About Me
+I'm developing high-performing web utility tools at diotoolshub.com and strategizing digital growth for DIO Pakistan, managing a complete digital ecosystem while I study. To keep growing, I am learning advanced AI prompting for video generation and complex full-stack web coding. I am always looking to collaborate on cutting-edge projects at the intersection of web technology, AI innovation, and digital marketing. Feel free to ask me about web development, SEO, artificial intelligence, and social media strategy!
 </div>
 
 <br>
